@@ -225,7 +225,7 @@
           <mxGeometry x="70" y="930" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DbjTEnPl-hI4p3riro60-116" value="Escalão" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="420" y="940" width="100" height="40" as="geometry" />
+          <mxGeometry x="410" y="930" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DbjTEnPl-hI4p3riro60-117" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.825;entryY=0.717;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DbjTEnPl-hI4p3riro60-116" target="DbjTEnPl-hI4p3riro60-73">
           <mxGeometry relative="1" as="geometry">
@@ -233,13 +233,10 @@
             <mxPoint x="490" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbjTEnPl-hI4p3riro60-118" value="AnoCorrente" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="320" y="860" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DbjTEnPl-hI4p3riro60-119" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.7;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DbjTEnPl-hI4p3riro60-73" target="DbjTEnPl-hI4p3riro60-118">
+        <mxCell id="DbjTEnPl-hI4p3riro60-119" value="" style="endArrow=none;html=1;rounded=0;exitX=0.7;exitY=0.233;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.09;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DbjTEnPl-hI4p3riro60-73" target="DbjTEnPl-hI4p3riro60-131">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="990" as="sourcePoint" />
-            <mxPoint x="490" y="990" as="targetPoint" />
+            <mxPoint x="370" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DbjTEnPl-hI4p3riro60-123" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DbjTEnPl-hI4p3riro60-53" target="DbjTEnPl-hI4p3riro60-55">
@@ -277,6 +274,9 @@
         </mxCell>
         <mxCell id="DbjTEnPl-hI4p3riro60-130" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="DbjTEnPl-hI4p3riro60-129">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DbjTEnPl-hI4p3riro60-131" value="AnoCorrente" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
